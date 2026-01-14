@@ -12,6 +12,7 @@
     }
   },
   "stats": {
-    "totalUsers": 0
+    "totalUsers": 1,
+    "uptime": null
   }
 }
