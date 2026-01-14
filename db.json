@@ -1,3 +1,14 @@
 {
-  "users": {}
+  "users": {
+    "7569608923": {
+      "id": 7569608923,
+      "balance": 0,
+      "totalDeposit": 0,
+      "totalOrders": 0,
+      "joinedAt": "2026-01-14T16:57:40.323Z",
+      "lastActive": "2026-01-14T16:57:40.323Z",
+      "username": "JeryPets",
+      "firstName": "Jery - Help U"
+    }
+  }
 }
